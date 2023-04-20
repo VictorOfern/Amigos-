@@ -164,4 +164,48 @@ body {
         display: block;
         background-image: none;
     }
+
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2em 2em;
+    }
+
+    .secundario {
+        margin: 0;
+        text-align: center;
+    }
+
+    .secundario__imagem {
+        width: 50vw;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape {
+        margin: 0em 0em;
+    }
+
+    .rodape__lista {
+        display: block;
+        
+    }
+
+    .lista__links {
+        margin-bottom: 10px;
+    }
+
+    .rodape__texto {
+        font-size: 9px;
+        display: flex;
+        justify-content: center;
+        margin: 0 5em;
+        padding-bottom: 10px;
+    }
+
+
 }
